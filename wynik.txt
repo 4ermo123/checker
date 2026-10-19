@@ -1,0 +1,36 @@
+PLIK 1:
+jabłko
+gruszka
+winogrono
+malina
+brzoskwinia
+śliwka
+wiśnia
+czereśnia
+limonka
+kokos
+
+PLIK 2:
+papaja
+granat
+figa
+daktyl
+mandarynka
+grejpfrut
+marakuja
+liczi
+nektarynka
+porzeczka
+
+W OBU PLIKACH:
+banan
+pomarańcza
+kiwi
+truskawka
+borówka
+arbuz
+melon
+ananas
+mango
+cytryna
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1792393237 source:c:\users\admin\documents\checker\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<unordered_set>
+
